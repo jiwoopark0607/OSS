@@ -15,7 +15,8 @@
 * [Gemini](https://github.com/jiwoopark0607/OSS/blob/main/Gemini.md)
 
 ### 3. Grok (xAI)
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/XAI_Grok_logo.svg" width="100" alt="Grok 로고">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/XAI_Grok_logo.svg/200px-XAI_Grok_logo.svg.png" width="100" alt="Grok 로고">
+
 * [Grok](https://github.com/jiwoopark0607/OSS/blob/main/Grok)
   
 ---
