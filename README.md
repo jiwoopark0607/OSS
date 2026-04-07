@@ -7,15 +7,15 @@
 현재 시장을 이끌고 있는 대표적인 AI 어시스턴트로는 **ChatGPT**, **Gemini**, **Grok**이 있습니다.
 
 ### 1. ChatGPT (OpenAI)
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="100" alt="ChatGPT 로고">\n
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="100" alt="ChatGPT 로고">
 * [Chatgpt](https://github.com/jiwoopark0607/OSS/blob/main/Chatgpt.md)
 
 ### 2. Gemini (Google)
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" alt="Gemini 로고">\n
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" alt="Gemini 로고">
 * [Gemini](https://github.com/jiwoopark0607/OSS/blob/main/Gemini.md)
 
 ### 3. Grok (xAI)
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/XAI_Grok_logo.svg" width="100" alt="Grok 로고">\n
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/XAI_Grok_logo.svg" width="100" alt="Grok 로고">
 * [Grok](https://github.com/jiwoopark0607/OSS/blob/main/Grok)
   
 ---
