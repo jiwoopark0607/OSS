@@ -7,9 +7,9 @@
 
 자세한 내용은 아래의 각 브랜치(Branch) 링크를 통해 확인할 수 있습니다.
 
-* [첫 번째 주제 제목 입력](첫_번째_브랜치_링크_주소)
-* [두 번째 주제 제목 입력](두_번째_브랜치_링크_주소)
-* [세 번째 주제 제목 입력](세_번째_브랜치_링크_주소)
+* [Chatgpt](https://github.com/jiwoopark0607/OSS/blob/main/Chatgpt)
+* [Gemini](https://github.com/jiwoopark0607/OSS/blob/main/Gemini)
+* [Grok](https://github.com/jiwoopark0607/OSS/blob/main/Grok)
 
 ---
 
