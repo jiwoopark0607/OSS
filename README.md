@@ -8,10 +8,12 @@
 
 ### 1. ChatGPT (OpenAI)
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="100" alt="ChatGPT 로고">
+
 * [Chatgpt](https://github.com/jiwoopark0607/OSS/blob/main/Chatgpt.md)
 
 ### 2. Gemini (Google)
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" alt="Gemini 로고">
+
 * [Gemini](https://github.com/jiwoopark0607/OSS/blob/main/Gemini.md)
 
 ### 3. Grok (xAI)
