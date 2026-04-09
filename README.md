@@ -22,6 +22,9 @@
 * [Grok](https://github.com/jiwoopark0607/OSS/blob/main/Grok.md)
   
 ---
+## Commit 정책
+- 저희 팀은 각 Markdown 파일마다  크게 3개의 챕터로 나누어서 작성하였으며, 하나의 챕터를 마무리할 때마다 Commit하는 것으로 규칙을 정하였습니다.
+---
 
 ## 팀원 소개 및 소감
 
